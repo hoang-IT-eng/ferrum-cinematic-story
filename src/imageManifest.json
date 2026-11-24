@@ -1,0 +1,101 @@
+{
+  "ch1-panel1-mocked": {
+    "base": "/images/ch1-panel1-mocked",
+    "widths": [
+      480,
+      864,
+      1280
+    ],
+    "width": 1280,
+    "height": 1714,
+    "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAwCdASoQABUAPu1kqk4ppaQiMAgBMB2JZwAARW6zD/YDA4tRagYAAP7slssam3Z54lkHXj/dvYfFSkfTCxDd1jfqDg1KnWroUgs7HIS9207oCuswNCriQAA="
+  },
+  "ch1-panel2-sadness": {
+    "base": "/images/ch1-panel2-sadness",
+    "widths": [
+      480,
+      864,
+      1280
+    ],
+    "width": 1280,
+    "height": 1714,
+    "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACQAwCdASoQABUAPu1kqU2ppaQiMAgBMB2JZQCsAA/bzsSer04AAP7qIBCj08IeP3YnwYroKyfSnrRzwtkpPTt2HBct1vtMh2na4TCZ43cQpB0Zw/61oAAA"
+  },
+  "ch1-panel3-first-gym": {
+    "base": "/images/ch1-panel3-first-gym",
+    "widths": [
+      480,
+      864,
+      1280
+    ],
+    "width": 1280,
+    "height": 1714,
+    "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAwCdASoQABUAPu1iqU2ppaOiMAgBMB2JZQAATvFbhLP/YQ2+IwAA/uRZHbP1czjtnwWO2GfEXoLs9F7fqyLHgsZ+jz0rmxiC9gntCbngn3NAAAA="
+  },
+  "ch1-panel4-no-gains": {
+    "base": "/images/ch1-panel4-no-gains",
+    "widths": [
+      480,
+      864,
+      1280
+    ],
+    "width": 1280,
+    "height": 1714,
+    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoQABUAPu1iqk2ppaQiMAgBMB2JZQC+SCHaPvvrBXBBqAAA/uoAxs/R1s9RAmEp6v07nLFv5VrLwMdvdfPkgShE1oAcwYq87kb3mfyqD+1xV95PazSewAAA"
+  },
+  "ch1-panel5-resolve": {
+    "base": "/images/ch1-panel5-resolve",
+    "widths": [
+      480,
+      864,
+      1280
+    ],
+    "width": 1280,
+    "height": 1714,
+    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADQAwCdASoQABUAPu1kqU2ppaQiMAgBMB2JZQC7ABsq4/xrQ5D3juQA/vDforOr+XQ7EXHKZuK0Ax0zDNCw7mxgxqXz+2FTEyJx+NQfSneoftReHKOqG6N31BOxuAAA"
+  },
+  "ch2-turning-point": {
+    "base": "/images/ch2-turning-point",
+    "widths": [
+      480,
+      864,
+      1280
+    ],
+    "width": 1280,
+    "height": 960,
+    "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoQAAwAA4BaJZQC7ADD3L9ts8AA/vEj0HafJwNjz+hbMpoWAwYaAjqJAUeVOLF406d7gw5hxD8H6hvvlSDiAA=="
+  },
+  "ch4-transformation": {
+    "base": "/images/ch4-transformation",
+    "widths": [
+      480,
+      864,
+      1280
+    ],
+    "width": 1280,
+    "height": 1714,
+    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwBACdASoQABUAPu1iqU2ppaOiMAgBMB2JZwDCsn9/AP//MIAFKQPnCBi/nPl8AP7ynqarzeKBjtF5x/zAx8sapRfivZQIg8d6xoWWDKANZa41nD0xH+aaLHgvgAAA"
+  },
+  "hero-desktop": {
+    "base": "/images/hero-desktop",
+    "widths": [
+      960,
+      1440,
+      1920
+    ],
+    "width": 1920,
+    "height": 1072,
+    "lqip": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkAA4BaJZQCw7EKf37gAP73gM0G82vFS7xN0o5L6ThLdqJvlAAA"
+  },
+  "hero-mobile": {
+    "base": "/images/hero-mobile",
+    "widths": [
+      540,
+      810,
+      1080
+    ],
+    "width": 1080,
+    "height": 1935,
+    "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwBACdASoQAB0APu1orU2ppqSiMAgBMB2JZQC06Glhry28SAcJCq0nWgAA/v4WfP9ykzBt/03VwDwA2qTztUR1G0ynUGgyYbNbQBDUfn2Fbe6ekOtU4AAA"
+  }
+}
